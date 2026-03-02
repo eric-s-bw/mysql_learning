@@ -1,2 +1,19 @@
-# mysql_learning
-record of learning mysql
+# MySQL Learning Journey 
+
+## 项目简介
+
+本项目用于记录我学习 MySQL 数据库的全过程
+
+## 学习来源
+
+主要学习课程来源
+
+-> Bilibili -> 黑马程序员 MySQL 入门到精通课程
+
+## 主要目的
+
+辅助我寻找数据分析师/数据科学家实习工作，拓展本人技术栈
+
+## 持续更新
+
+本项目会随着学习进度不断更新 
